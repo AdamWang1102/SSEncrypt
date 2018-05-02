@@ -11,6 +11,7 @@ MDE5:f7653207090ce3389115e9c88541afe0
 # 使用方法
 单个
 ```
+[Proxy]
 Proxy = custom, 1.2.3.4, 443, chacha20-ietf-poly1305, password, https://raw.githubusercontent.com/ConnersHua/SSEncrypt/master/SSEncrypt.module, obfs=tls,obfs-host=yunjiasu-cdn.net
 ```
 群组
